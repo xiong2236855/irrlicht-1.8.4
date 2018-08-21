@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\study\irrlicht-1.8.4\include\keycodes.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+main.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  Quake3Map_vc12.vcxproj -> D:\study\irrlicht-1.8.4\examples\02.Quake3Map\..\..\bin\Win32-VisualStudio\02.Quake3Map.exe
